@@ -1,4 +1,9 @@
 .sqaures {
-  font-size: 50px;
-  margin: 8px;
+  font-size: 45px;
+  margin: 1px;
+  width: 150px;
+  height: 150px;
+  padding: 19px;
+  background-color: #f6f3f3;
+  cursor: pointer;
 }
